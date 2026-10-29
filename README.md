@@ -64,23 +64,94 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-RMI Belgium WOW-BE is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+The Royal Meteorological Institute of Belgium (KMI) provides weather forecasts, climate data, and meteorological services for Belgium. It operates as a public scientific institute, offering open data on observations, forecasts, climate change analyses, and specialized services for government, businesses, and the public. The institute also publishes data portals and documentation for developers to access weather APIs and datasets.
 
-**Areas:** Company
+**Areas:** Weather · Climate · Meteorology · Belgium · PublicSector
 
 ## RMI Belgium WOW-BE on APIs.io
 
 Everything profiled for RMI Belgium WOW-BE is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/royal-meteorological-institute-belgium/](https://apis.io/providers/royal-meteorological-institute-belgium/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Royal Meteorological Institute Belgium Authentication](https://apis.io/security/royal-meteorological-institute-belgium/royal-meteorological-institute-belgium-authentication/)
+- [Royal Meteorological Institute Belgium Domain Security](https://apis.io/security/royal-meteorological-institute-belgium/royal-meteorological-institute-belgium-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Royal Meteorological Institute Belgium Scopes](https://apis.io/scopes/royal-meteorological-institute-belgium/royal-meteorological-institute-belgium-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Royal Meteorological Institute Belgium Plans Pricing](https://apis.io/plans/royal-meteorological-institute-belgium/royal-meteorological-institute-belgium-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Royal Meteorological Institute Belgium Rate Limits](https://apis.io/rate-limits/royal-meteorological-institute-belgium/royal-meteorological-institute-belgium-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://meteo.be/)
+- [Support](https://www.meteo.be/nl/over-het-kmi/contact)
+- [Terms of service](https://www.meteo.be/nl/diensten/algemene-voorwaarden)
+- [Privacy policy](https://www.meteo.be/nl/legal/modal/legal_privacy_policy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/royal-meteorological-institute-belgium/](https://apis.io/providers/royal-meteorological-institute-belgium/).
+**Kin Score 11.3** — emerging · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 8.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/royal-meteorological-institute-belgium/](https://apis.io/providers/royal-meteorological-institute-belgium/).
 
 ## How this profile is made
 
